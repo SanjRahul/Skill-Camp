@@ -1,0 +1,67 @@
+html,
+body {
+    background-image: url(/Skill_Camp/AdminLTE/dist/img/544750.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 100%;
+    font-family: 'Numans', sans-serif;
+}
+
+.card-header h2,
+h1 {
+    color: white;
+}
+
+.card {
+    background-color: rgba(0, 0, 0, 0.5) !important;
+}
+
+.input {
+    width: 88%;
+    height: 5vh;
+}
+
+.input-group-prepend span {
+    width: 50px;
+    background-color: #FFC312;
+    color: black;
+    border: 0 !important;
+}
+
+.lbox,
+.box {
+    padding-top: 120px;
+}
+
+.show {
+    position: absolute;
+    right: 12px;
+    top: 10px;
+    cursor: pointer;
+}
+
+.remember {
+    color: white;
+}
+
+.remember input {
+    width: 20px;
+    height: 20px;
+    margin-left: 15px;
+    margin-right: 5px;
+}
+
+.login_btn {
+    color: black;
+    background-color: #FFC312;
+    /*width: 100px;*/
+}
+
+.login_btn:hover {
+    color: black;
+    background-color: white;
+}
+
+.links {
+    color: white;
+}
